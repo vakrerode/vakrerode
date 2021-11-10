@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vakrerode
-- 👀 I’m interested in elearning, bootstrap, cinema 4D
+- 👀 I’m interested in elearning, bootstrap, cinema 4D, java script to after effects and animate
 - 🌱 I’m currently learning cinema 4D, AE CC
 - 📫 How to reaach me, learning for the other people and share experience
 <!---
